@@ -48,4 +48,4 @@ Dựa trên khảo sát Silhouette, số cụm tối ưu được chọn là **K
   * *Chiến lược*: **Re-activation** thông qua các mã giảm giá cho các sản phẩm thuộc Top Rules của họ[cite: 96].
 
 ---
-*Thực hiện bởi Nhóm 2 - Dự án FIT-DNU CONQUER[cite: 60].*
+*Thực hiện bởi Nhóm 2*
