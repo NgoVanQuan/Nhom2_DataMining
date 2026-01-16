@@ -52,10 +52,8 @@ Mục tiêu cuối cùng là **xây dựng hồ sơ khách hàng (Customer Profi
 - `notebooks/`: Chứa các Jupyter Notebook thực hiện từng bước của dự án.
 - `src/`: Chứa thư viện `cluster_library.py` - lõi xử lý của dự án.
 - `app.py`: Ứng dụng Streamlit Dashboard.
-- `report.html`: Báo cáo kết quả dự án dưới dạng HTML tĩnh (không cần chạy server).
-- `BLOG.md`: Bài viết Blog tóm tắt quá trình và kết quả dự án.
+- `README.md`: Bài viết Blog tóm tắt quá trình và kết quả dự án.
 - `run_papermill.py`: Script tự động chạy toàn bộ pipeline notebook.
-- `final_analysis.py`: Script thực hiện so sánh hệ thống và profiling cuối cùng.
 
 
 ## 5. Thành phần chính của Project
